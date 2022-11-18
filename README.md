@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rogerioramosm
+- 👀 I’m interested in `NodeJS` and `Back End` development
+- 🌱 I’m currently learning `JavaScript` with `NodeJS`
