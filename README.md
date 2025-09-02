@@ -6,5 +6,5 @@ I’m @rogerioramosm
 [![Behance Badge](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/rogerioramosm)](https://www.behance.net/rogerioramosm)
 
 More about me:
-- 🌱 I work with `PHP`;
-- 👀 I’m interested and study `JAVA`, `RUST` - `Back End` development.
+- 🌱 I work with `PHP` backend development;
+- 👀 I’m interested and study `JAVA`, `GO`, `Python` - development.
