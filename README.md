@@ -7,4 +7,4 @@ I’m @rogerioramosm
 
 More about me:
 - 🌱 I work with `PHP` backend development;
-- 👀 I’m interested and study `Python`, `ReactJS`, `JAVA`, `RUST`.
+- 👀 I’m interested and study `Angular`, `JAVA`, `SQL -> Postgres and MySql`, `RUST`, `Python`.
